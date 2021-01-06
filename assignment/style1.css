@@ -1,0 +1,182 @@
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+   width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+}
+.hire-button{
+    position: relative;
+    top:20px;
+        padding: 10px 20px;
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 15px;
+        color: white;
+        background-color: orange;
+        border-radius:8px;
+    
+}
+h1{
+    font-size: 40px;
+}
+.Download-button{
+    position: relative;
+    top:20px;
+        padding: 10px 20px;
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 15px;
+        color: white;
+        background-color: orange;
+        border-radius:8px;
+}
+
+
+.middle-banner{
+    margin-bottom: inherit;
+}
+.latest{
+    
+    display: block;
+    position: absolute;
+  margin-top: 950px;
+text-align: center;
+margin-left: 35%;
+}
+.mixed-banner{
+    display: block;
+    position: absolute;
+  margin-top: 1050px;
+  margin-left: 20%;
+}
+.three-images{
+    width:25%;
+    float: left;
+    box-shadow:10px 10px 20px gray;
+    height: 300px;
+}
+.three-images img{
+    width: 100%;
+}
+#box1{
+    margin-right:30px;
+    border-radius: 10px;
+}
+#box2{
+    margin-right: 30px;
+    border-radius: 10px;
+}
+#box3{
+    border-radius: 10px;
+}
+#gym-image{
+    margin-top:15px;
+}
+p{
+    padding-left: 10px;
+color: dimgray;
+}
+h2{
+    padding-left: 10px;
+ border-radius: 10px;
+}
+.fourth-part{
+   margin-top: 500px;
+   margin-left: 20%;
+   height:230px;
+   width: 950px;
+}
+.chat-button{
+    display: block;
+    position: absolute;
+    margin-top: 600px;
+    margin-left:70%;
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 8px;
+    padding: 10px 20px;
+    
+}
+.work{
+    display: block;
+    position: absolute;
+    font-size:20px;
+    margin-top: 590px;
+    margin-left:25%;
+    color: white;
+    background-color: orange;
+    border-radius: 12px;
+    padding: 15px 20px;
+}
+.reviews{
+   
+    margin-left: 20%;
+    margin-left: 40%;
+    
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.client-reviews{
+    display: block;
+    position: absolute;
+  margin-top: 40px;
+  margin-left: 20%;
+}
+.customer-reviews{
+    width:25%;
+    float: left;
+    box-shadow:10px 10px 15px gray;
+    height: 500px;
+}
+.customer-reviews img{
+    width: 100%;
+}
+#new-box1{
+    margin-right:30px;
+    border-radius: 10px;
+}
+#new-box2{
+    margin-right:30px;
+    border-radius: 10px;
+}
+#new-box3{
+    border-radius: 10px;
+}
+h3{
+    margin-left: 10px;
+}
+.last{
+    display: block;
+    position: absolute;
+    margin-top: 650px;
+   margin-left: 60px;
+}
+.finish-line{
+    display: block;
+    position: absolute;
+  margin-top: 40px;
+  margin-left: 40%;
+}
+.icon{
+    width:25%;
+    float: left;
+    height: 500px;
+    margin-top: 750px;
+  
+}
+#icon1{
+    margin-right: 40px;
+}
+#icon2{
+    margin-right: 40px;  
+}
+#mail{
+    margin-top: 700px;
+    margin-left: 100px;
+}
